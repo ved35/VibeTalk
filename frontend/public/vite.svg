@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+    <defs>
+        <linearGradient id="vibeGradient1" x1="0%" x2="100%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#41D1FF"/>
+            <stop offset="100%" stop-color="#BD34FE"/>
+        </linearGradient>
+        <linearGradient id="vibeGradient2" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFEA83"/>
+            <stop offset="100%" stop-color="#FFA800"/>
+        </linearGradient>
+    </defs>
+    
+    <!-- Speech Bubble -->
+    <path fill="url(#vibeGradient1)" d="M128 10c65 0 118 47 118 105s-53 105-118 105c-9 0-18-1-27-3l-42 29c-4 3-10-1-9-6l7-39c-27-19-44-49-44-81C10 57 63 10 128 10Z"/>
+    
+    <!-- Wave Elements -->
+    <path fill="url(#vibeGradient2)" d="M75 85c25-20 82-25 106 0 5 5 5 12 0 17-24 24-81 20-106 0-5-5-5-12 0-17Zm0 35c25-20 82-25 106 0 5 5 5 12 0 17-24 24-81 20-106 0-5-5-5-12 0-17Zm0 35c25-20 82-25 106 0 5 5 5 12 0 17-24 24-81 20-106 0-5-5-5-12 0-17Z"/>
+</svg>
